@@ -5,7 +5,7 @@
 | Student name          | Student ID      |
 |-----------------------|-----------------|
 | Taimas Ayazhan        | 22B030447       |
-| Turzhanova Altynai    | 22B030456       |
+| Turzhanova Altynay    | 22B030456       |
 | Tulepbergen Nurkhan   | 22B030455       |
 
 # AND Shop
