@@ -8,6 +8,6 @@
 | Turzhanova Altynay    | 22B030456       |
 | Tulepbergen Nurkhan   | 22B030455       |
 
-# AND Shop
+# ONLINE STUDY 
 
-AND Shop is an online marketplace with categorized product listings where customers can discover a wide range of items, while sellers have the capability to add, remove, and modify the prices of their products. This platform serves as a central hub where buyers can explore diverse product categories, from electronics to fashion, and everything in between. With intuitive navigation and search functionalities, customers can easily find the items they are looking for or explore new offerings. Meanwhile, sellers benefit from the flexibility to manage their inventory, adjust pricing based on market demands, and showcase their products to a broad audience of potential buyers. JANA Shop fosters a dynamic ecosystem where transactions between buyers and sellers are facilitated seamlessly, fostering a vibrant online marketplace experience for all parties involved.
+KBTU's online study platform offers a rich variety of disciplines, catering to diverse academic interests. Students access lectures and tasks conveniently, engaging with course materials at their own pace. Interactive virtual classrooms facilitate discussions and collaborative tasks, enhancing comprehension. As finals approach, comprehensive review materials and practice exams ensure thorough preparation. Expert instructors provide guidance, clarifying doubts and offering personalized assistance. With flexible scheduling and robust support systems, KBTU's online program equips students with the tools they need to excel academically, fostering a dynamic and enriching learning experience tailored to individual needs.
